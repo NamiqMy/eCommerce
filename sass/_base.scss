@@ -13,7 +13,7 @@ h4,
 h5,
 h6 {
   margin: 0;
-  color: #111111;
+  color: black;
   font-weight: 400;
 }
 
@@ -43,7 +43,7 @@ h6 {
 
 p {
   font-size: 16px;
-  color: #6f6f6f;
+  color: #737070;
   font-weight: 400;
   line-height: 26px;
   margin: 0 0 15px 0;
@@ -64,11 +64,11 @@ a:hover,
 a:focus {
   text-decoration: none;
   outline: none;
-  color: $white-color;
+  color: white;
 }
 
 ul,
-ol {
+ol {                                                                                                                                                                                                                                                
   padding: 0;
   margin: 0;
 }
@@ -90,7 +90,7 @@ ol {
       right: 0;
       height: 4px;
       width: 80px;
-      background: $primary-color;
+      background: $green-color;
       content: "";
       margin: 0 auto;
     }
@@ -130,7 +130,7 @@ ol {
   color: $white-color;
   text-transform: uppercase;
   font-weight: 700;
-  background: $primary-color;
+  background: $green-color;
   letter-spacing: 2px;
 }
 
@@ -141,7 +141,7 @@ ol {
   text-transform: uppercase;
   display: inline-block;
   padding: 13px 30px 12px;
-  background: $primary-color;
+  background: $green-color;
   border: none;
 }
 

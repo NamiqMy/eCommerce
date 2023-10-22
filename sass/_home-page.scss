@@ -93,7 +93,7 @@
                 bottom: -2px;
                 width: 100%;
                 height: 2px;
-                background: $primary-color;
+                background: $green-color;
                 content: '';
                 opacity: 0;
             }
@@ -146,8 +146,8 @@
         &:hover {
 
             a {
-                background: $primary-color;
-                border-color: $primary-color;
+                background: $green-color;
+                border-color: $green-color;
 
                 i {
                     color: $white-color;

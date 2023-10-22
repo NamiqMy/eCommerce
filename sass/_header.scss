@@ -188,14 +188,14 @@
             &.active {
 
                 a {
-                    color: $primary-color;
+                    color: $green-color;
                 }
             }
 
             &:hover {
 
                 &>a {
-                    color: $primary-color;
+                    color: $green-color;
                 }
             }
 
@@ -245,7 +245,7 @@
                 span {
                     height: 13px;
                     width: 13px;
-                    background: $primary-color;
+                    background: $green-color;
                     font-size: 10px;
                     color: $white-color;
                     line-height: 13px;
@@ -266,10 +266,7 @@
         color: #6f6f6f;
         display: inline-block;
 
-        span {
-            color: $heading-color-2;
-            font-weight: 700;
-        }
+      
     }
 }
 
